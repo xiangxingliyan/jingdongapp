@@ -10074,8 +10074,7 @@ return jQuery;
 } );
 
 /*
- * @author: LainarHo
- * @email: lainarho@gmail.com
+ * 
  * index.js
  */
 
